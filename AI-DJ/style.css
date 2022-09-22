@@ -1,0 +1,36 @@
+.Heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+#Note{
+    font-size: 15px;
+    color:black;
+
+}
+.speed{
+    float: left;
+}
+.speed_Image, .volume_Image{
+    width: 200.892378723798px;
+    border-radius: 50.1238px;
+}
+.speeds, .volumes{
+    font-size: 23px;
+}
+.Volume{
+    float: right;
+    
+}
+.play{
+    width: 300px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    
+}
+
